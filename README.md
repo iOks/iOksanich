@@ -1,2 +1,2 @@
-# ioksanich
+# iOksanich
 PyStudy
